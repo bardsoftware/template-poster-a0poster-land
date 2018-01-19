@@ -5,7 +5,7 @@ This poster features a clean landscape layout with a large header section housin
 
 ===================================================
 
-Original sources: https://www.latextemplates.com/template/a0poster-portrait-poster
+Original sources: https://www.latextemplates.com/template/baposter-landscape-poster
 Author:           Gerlinde Kettl and Matthias Weiser (tex@kettl.de)
 License:          CC BY-NC-SA 3.0
 Version:	  1.0 (22/06/2013)
